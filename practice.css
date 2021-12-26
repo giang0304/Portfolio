@@ -140,7 +140,7 @@ body {
 }
 
 #myBtn:hover {
-    color: #EDB39C;
+    color: #227C9D;
 }
 
 
@@ -851,7 +851,7 @@ body {
         padding: 125px 125px 45px 35px;
     }
     .app-solutions-text p {
-        font-size: 20px;
+        font-size: 22px;
     }
     #uf-phone {
         display: none;
