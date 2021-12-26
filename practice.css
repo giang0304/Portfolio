@@ -851,10 +851,7 @@ body {
         padding: 125px 125px 45px 35px;
     }
     .app-solutions-text p {
-        font-size: 24px;
-    }
-    .app-solutions-text span {
-        font-size: 28px;
+        font-size: 20px;
     }
     #uf-phone {
         display: none;
@@ -930,25 +927,6 @@ body {
     }
     .works-list-div h3 {
         font-size: 32px;
-    }
-    .project-content p,
-    .problems-div p,
-    .solutions p {
-        font-size: 24px;
-    }
-    .problems-div h5 {
-        font-size: 32px;
-    }
-    .solutions h5 {
-        font-size: 28px;
-    }
-    .project-content h2,
-    .challenge h2,
-    .problems-div h2 {
-        font-size: 42px;
-    }
-    h3 {
-        font-size: 36px;
     }
 }
 
