@@ -710,7 +710,7 @@ body {
     }
 }
 
-@media only screen and (min-width: 1401px) {
+@media only screen and (min-width: 1401px) and (max-width: 1800px) {
     .tablet-nav {
         display: none;
     }
@@ -773,6 +773,116 @@ body {
         padding: 5% 15% 5% 15%;
         font-size: 26px;
         line-height: 4.5vh;
+    }
+    .header a {
+        float: right;
+        display: block;
+        color: #227C9D;
+        font-size: 24px;
+        text-decoration: none;
+        padding-right: 25px;
+    }
+    #logo {
+        color: #FECB77;
+        font-size: 43px;
+        padding: 10px 0 0 25px;
+        float: left;
+    }
+    .selected-work-div h2 {
+        font-size: 38px;
+    }
+    #work-title {
+        font-size: 45px;
+        color: #227C9D;
+    }
+    .project-content {
+        padding: 5% 15% 5% 15%;
+        font-size: 20px;
+    }
+    #sorry-img {
+        width: 32%;
+    }
+    .footer-div-text {
+        margin-top: 105px;
+        color: #227C9D;
+    }
+    .footer-div {
+        height: 35vh;
+        line-height: 40vh;
+        text-align: center;
+        border-bottom: 15px solid #FECB77;
+    }
+    .works-list-div p {
+        font-size: 22px;
+    }
+    .works-list-div h3 {
+        font-size: 32px;
+    }
+}
+
+@media only screen and (min-width: 1800px) {
+    .tablet-nav {
+        display: none;
+    }
+    .tablet-screen {
+        display: none;
+    }
+    .mobile-nav {
+        display: none;
+    }
+    .mobile-screen {
+        display: none;
+    }
+    .center-div {
+        display: flex;
+        align-items: center;
+        height: 90%;
+        background-color: #fff;
+        padding: 0;
+    }
+    .more-info-div {
+        height: 10%;
+        background-color: #fff;
+    }
+    #ui-mockup-img {
+        width: 75%;
+    }
+    .app-solutions-text {
+        padding: 125px 125px 45px 35px;
+    }
+    .app-solutions-text p {
+        font-size: 20px;
+    }
+    #uf-phone {
+        display: none;
+    }
+    .homepage-div-text h1 {
+        font-size: 66px;
+    }
+    .about-text {
+        text-align: left;
+        padding: 0 15% 5% 14%;
+        line-height: 25px;
+        font-size: 20px;
+    }
+    .about-title-text {
+        text-align: left;
+        padding: 15% 15% 0 15%;
+        line-height: 30px;
+        font-size: 24px;
+    }
+    .update-title-text {
+        text-align: left;
+        line-height: 22px;
+        font-size: 18px;
+        margin-top: 10px;
+        padding: 7% 15% 0 15%;
+    }
+    .homepage-div-text p {
+        text-align: left;
+        padding: 5% 15% 5% 15%;
+        font-size: 32px;
+        line-height: 5vh;
     }
     .header a {
         float: right;
