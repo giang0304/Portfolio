@@ -697,7 +697,7 @@ body {
         color: #227C9D;
     }
     .footer-div {
-        height: 35vh;
+        height: 45vh;
         line-height: 40vh;
         text-align: center;
         border-bottom: 15px solid #FECB77;
@@ -746,8 +746,8 @@ body {
     #uf-phone {
         display: none;
     }
-    .homepage-div-text h1 {
-        font-size: 66px;
+    .homepage-div h1 {
+        font-size: 62px;
     }
     .about-text {
         text-align: left;
@@ -757,7 +757,7 @@ body {
     }
     .about-title-text {
         text-align: left;
-        padding: 15% 15% 0 15%;
+        padding: 10% 15% 0 15%;
         line-height: 30px;
         font-size: 24px;
     }
@@ -807,7 +807,7 @@ body {
         color: #227C9D;
     }
     .footer-div {
-        height: 35vh;
+        height: 45vh;
         line-height: 40vh;
         text-align: center;
         border-bottom: 15px solid #FECB77;
